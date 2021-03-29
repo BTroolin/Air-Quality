@@ -16,4 +16,4 @@ In what ways has the Covid-19 pandemic impacted air quality, positively or negat
 - https://aviation-edge.com/
 - https://www.dot.state.mn.us/traffic/data/reports-hrvol-atr.html
 
-
+Analysis of the data was done using Jupyter Notebook and the Pandas Python Data Analysis Library.
